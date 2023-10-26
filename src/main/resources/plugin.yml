@@ -1,0 +1,11 @@
+name: Wild-Harder
+version: '${project.version}'
+main: org.perdume.wildharder.Wild_Harder
+api-version: '1.20'
+authors: [Perdume]
+
+commands:
+  wildhard:
+    description: Admin
+    usage: /wildhard
+    permission: admin

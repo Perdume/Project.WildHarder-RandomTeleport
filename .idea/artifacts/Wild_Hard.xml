@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Wild-Hard">
+    <output-path>$USER_HOME$/Desktop/플긴아무거나/plugins</output-path>
+    <root id="archive" name="Wild-Hard.jar">
+      <element id="module-output" name="Wild-Harder" />
+    </root>
+  </artifact>
+</component>
